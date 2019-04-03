@@ -1,2 +1,2 @@
 # Automatic-bookshelf
-Automatic bookshelf - project for MakeNTU2019
+Automatic bookshelf - MakeNTU2019
